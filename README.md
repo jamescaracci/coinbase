@@ -1,2 +1,0 @@
-# coinbase
-coinbase.com/join/caracc_x0?src=android-link
